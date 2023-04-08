@@ -14,7 +14,7 @@
       "minimumAge": 13
     },
     {
-      "posterUrl": "https://example.com/movie2-poster.jpg",
+      "posterUrl": "https://www.seret.co.il/images/movies/TheMuseum/TheMuseum1.jpg",
       "title": "המוזיאון הצרפתי",
       "plot": "אגרון עוסק באהבה לעיתונאים ומתרחב בעיקולים ובכפרה הפרנצוזית הדמיונית הממוקמת בעיר בדמיון המאה ה-20 המדוחך בצרפת שמעניקים לזה מראה אמיתות.",
       "director": "ווס אנדרסון",
@@ -42,7 +42,7 @@
       "minimumAge": 16
     },
     {
-      "posterUrl": "https://example.com/movie4-poster.jpg",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/6/68/Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg/800px-Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg",
       "title": "ספיידרמן: בטיפול עצמי",
       "plot": "סטפן מילר הוא ספיידרמן במישור המקביל של החלוף, והוא מנסה לעזור לנער מסתורי למצוא את עצמו ולהתמוטט ממהרות במסיבה שהשפיעה על חייו.",
       "director": "אן ווטס",
