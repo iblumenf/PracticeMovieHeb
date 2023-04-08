@@ -1,5 +1,6 @@
 {  "movies": [
     {
+      "serial":1,
       "posterUrl": "https://upload.wikimedia.org/wikipedia/he/7/78/Dune_Official_Poster.jpg",
       "title": "דיון",
       "plot": "פול אטרידס, בחור צעיר ומוכשר, חייב לנווט במדבר המסתורי והמסוכן כדי להגן על מורשת משפחתו ולהבטיח את השריון של עמו.",
@@ -14,6 +15,7 @@
       "minimumAge": 13
     },
     {
+      "serial":2,
       "posterUrl": "https://www.seret.co.il/images/movies/TheMuseum/TheMuseum1.jpg",
       "title": "המוזיאון הצרפתי",
       "plot": "אגרון עוסק באהבה לעיתונאים ומתרחב בעיקולים ובכפרה הפרנצוזית הדמיונית הממוקמת בעיר בדמיון המאה ה-20 המדוחך בצרפת שמעניקים לזה מראה אמיתות.",
@@ -28,6 +30,7 @@
       "minimumAge": 12
     },  
   {
+      "serial":3,
       "posterUrl": "https://example.com/movie3-poster.jpg",
       "title": "חצופרה",
       "plot": "אביון וניהיליסט תוכננו לבלות חופשת חצופרה במים, אבל ספקולציות מסתוריות ופעולה מסעירה מעניקים לחופרה כיוון בלתי צפוי.",
@@ -42,6 +45,7 @@
       "minimumAge": 16
     },
     {
+      "serial":4,
       "posterUrl": "https://upload.wikimedia.org/wikipedia/he/thumb/6/68/Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg/800px-Friendly_Neighborhood_Spider-Man_Vol_2_1_Stanley_Lau_Variant.jpg",
       "title": "ספיידרמן: בטיפול עצמי",
       "plot": "סטפן מילר הוא ספיידרמן במישור המקביל של החלוף, והוא מנסה לעזור לנער מסתורי למצוא את עצמו ולהתמוטט ממהרות במסיבה שהשפיעה על חייו.",
@@ -56,6 +60,7 @@
       "minimumAge": 12
     },
     {
+      "serial":5,
       "posterUrl": "https://example.com/movie5-poster.jpg",
       "title": "האומן",
       "plot": "בית המשפט נכנס למרד בפרקליט ברור מאוד, ומטפל במורשת של אישה עסוקה בהרבה סודות.",
@@ -70,6 +75,7 @@
       "minimumAge": 16
     },
     {
+      "serial":6,
       "posterUrl": "https://example.com/movie6-poster.jpg",
       "title": "מבצע התיקון",
       "plot": "במהלך מבצע מסוכן ומסתורי, קבוצת חיילים מגוון נשלחת למשימה בלתי יכולת שתשנה את ההיסטוריה.",
@@ -84,6 +90,7 @@
       "minimumAge": 16
     },
     {
+      "serial":7,
       "posterUrl": "https://example.com/movie7-poster.jpg",
       "title": "נערת הפרחים",
       "plot": "סיפורה של נערה בת 18 שמגלה כי היא מעוררת כוחות מיוחדים וכמובן נתקלת בהרפתקאות ברחבי היקום.",
@@ -98,6 +105,7 @@
       "minimumAge": 12
     },
     {
+      "serial":8,
       "posterUrl": "https://example.com/movie8-poster.jpg",
       "title": "פארק המכשפות",
       "plot": "מסע מפותח בפארק המכשפות המסתורי, בו מתנגדים כוחות טבע ואפל בקרבת מקום בים הטרופי.",
@@ -112,6 +120,7 @@
       "minimumAge": 12
     },
     {
+      "serial":9,
       "posterUrl": "https://example.com/movie9-poster.jpg",
       "title": "השריפה",
       "plot": "סיפורה המרגש של אישה צעירה שמנסה להתמוטט מאחרונות פרידתה מאהבה אבל מגלה תוך כדי כך את החופש והאנרגיה הפנימית שבה.",
@@ -126,6 +135,7 @@
       "minimumAge": 16
     },
     {
+      "serial":10,
       "posterUrl": "https://example.com/movie10-poster.jpg",
       "title": "המבריקה",
       "plot": "סיפור מרתק על אישה בוגרת שמחליטה לשנות את חייה המיועדים כאשר מגיעה לה הזדמנות מפתיעה מאוד.",
@@ -140,6 +150,7 @@
       "minimumAge": 12
     },
     {
+      "serial":11,
       "posterUrl": "https://example.com/movie11-poster.jpg",
       "title": "הילדה האבודה",
       "plot": "סיפור מרגש על חיפוש מענה לשאלות הגדולות בחיים כאשר ילדה צעירה מגלה את האמת המסתורית אחרי שנחשפת לסוד מפתיע מהעבר.",
@@ -154,6 +165,7 @@
       "minimumAge": 12
     },
     {
+      "serial":12,
       "posterUrl": "https://example.com/movie12-poster.jpg",
       "title": "חוץ לחוק",
       "plot": "סרט פעולה מסעיר על חוקר משטרה שמתנהל במסלול מסוכן כאשר הוא נמצא במרדף אחרי פושעים מסווגים.",
@@ -168,6 +180,7 @@
       "minimumAge": 16
     },
     {
+      "serial":13,
       "posterUrl": "https://example.com/movie13-poster.jpg",
       "title": "משהו באוויר",
       "plot": "סרט קומדיה רומנטית המספר את סיפורה של צעירה שמנהלת יחסים מסובכים ומצחיקים עם בן זוגה החדש שלה ועם האקס שלה.",
@@ -182,6 +195,7 @@
       "minimumAge": 12
     },
     {
+      "serial":14,
       "posterUrl": "https://example.com/movie14-poster.jpg",
       "title": "בנו של האלוף",
       "plot": "סרט ביוגרפי על חייו המופלאים של ספורטאי מפורסם שמאמין בכוח הנפש האנושית ומנהל מאבק אישי מוחשי על מעמדו ומקום המורשת שלו.",
@@ -196,6 +210,7 @@
       "minimumAge": 12
     },
   {
+      "serial":15,
       "posterUrl": "https://example.com/movie15-poster.jpg",
       "title": "מילה אחרונה",
       "plot": "סרט מתח ומותחן המספר על המרד האחרון של בני אדם נגד עידן הטכנולוגיה המתקדמת, כאשר קבוצה מגורמים שונים מתנגדת לשליטה המוחלטת של מערכת המוח המלאכותית.",
@@ -210,6 +225,7 @@
       "minimumAge": 16
     },
     {
+      "serial":16,
       "posterUrl": "https://example.com/movie16-poster.jpg",
       "title": "בהתה",
       "plot": "סרט דרמה מסתורי על חיי עדי הצעירים, בחירתם הקשה בין חופש הנעורים לבין האחריות והכריתה מהעולם המוכר.",
@@ -224,6 +240,7 @@
       "minimumAge": 16
     },
     {
+      "serial":17,
       "posterUrl": "https://example.com/movie17-poster.jpg",
       "title": "אבא",
       "plot": "סרט משפחתי מרגש המספר על חייו של אבא, אבא בני וברמן במסע החיפוש אחר החירות האמיתית והאהבה האבודה.",
@@ -238,6 +255,7 @@
       "minimumAge": 12
     },
     {
+      "serial":18,
       "posterUrl": "https://example.com/movie18-poster.jpg",
       "title": "לזמן עד",
       "plot": "סרט מותחן על עימות בין משטרה לפשע הארגון המאורגן בישראל, כאשר נמצאים במרד כנופיית הפשע הארגונית המסוכנת ביותר בארץ.",
@@ -252,6 +270,7 @@
       "minimumAge": 18
     },
     {
+      "serial":19,
       "posterUrl": "https://example.com/movie19-poster.jpg",
       "title": "בני האבות",
       "plot": "סרט דרמה המספר על חייו של ישראל פולקוב, מקצין המחנה הסובייטי בשנות ה-50, ואת הקרבה המורכבת עם יחידי המחנה.",
@@ -266,6 +285,7 @@
       "minimumAge": 16
     },
     {
+      "serial":20,
       "posterUrl": "https://example.com/movie20-poster.jpg",
       "title": "כאן ועכשיו",
       "plot": "סרט קומדיה רומנטית המספר על יחסיהם המסועסעים של שני צעירים, המנסים למצוא את משמעות החיים והאהבה במהלך מסע משותף בדרכים המסובכות של החיים.",
