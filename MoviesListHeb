@@ -1,6 +1,6 @@
 {  "movies": [
     {
-      "posterUrl": "https://example.com/movie1-poster.jpg",
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/he/7/78/Dune_Official_Poster.jpg",
       "title": "דיון",
       "plot": "פול אטרידס, בחור צעיר ומוכשר, חייב לנווט במדבר המסתורי והמסוכן כדי להגן על מורשת משפחתו ולהבטיח את השריון של עמו.",
       "director": "דניס וילנוב",
